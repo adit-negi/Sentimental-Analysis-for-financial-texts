@@ -93,3 +93,5 @@ rf_negative_word_proportion
 rf_uncertainty_word_proportion
 rf_constraining_word_proportion
 constraining_words_whole_report
+
+## Note this code needs to be rewritten
