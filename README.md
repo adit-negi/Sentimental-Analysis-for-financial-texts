@@ -49,50 +49,50 @@ Notations:
 “Risk Factors”: RF
 
 Output Variables: 
-<ul>
-All input variables in “cik_list.xlsx”
-mda_positive_score
-mda_negative_score
-mda_polarity_score
-mda_average_sentence_length
-mda_percentage_of_complex_words
-mda_fog_index
-mda_complex_word_count
-mda_word_count
-mda_uncertainty_score
-mda_constraining_score
-mda_positive_word_proportion
-mda_negative_word_proportion
-mda_uncertainty_word_proportion
-mda_constraining_word_proportion
-qqdmr_positive_score
-qqdmr_negative_score
-qqdmr_polarity_score
-qqdmr_average_sentence_length
-qqdmr_percentage_of_complex_words
-qqdmr_fog_index
-qqdmr_complex_word_count
-qqdmr_word_count
-qqdmr_uncertainty_score
-qqdmr_constraining_score
-qqdmr_positive_word_proportion
-qqdmr_negative_word_proportion
-qqdmr_uncertainty_word_proportion
-qqdmr_constraining_word_proportion
-rf_positive_score
-rf_negative_score
-rf_polarity_score
-rf_average_sentence_length
-rf_percentage_of_complex_words
-rf_fog_index
-rf_complex_word_count
-rf_word_count
-rf_uncertainty_score
-rf_constraining_score
-rf_positive_word_proportion
-rf_negative_word_proportion
-rf_uncertainty_word_proportion
-rf_constraining_word_proportion
-constraining_words_whole_report
-</ul>
+
+ * All input variables in “cik_list.xlsx”
+ * mda_positive_score
+ * mda_negative_score
+ * mda_polarity_score
+ * mda_average_sentence_length
+ * mda_percentage_of_complex_words
+ * mda_fog_index
+ * mda_complex_word_count
+ * mda_word_count
+ * mda_uncertainty_score
+ * mda_constraining_score
+ * mda_positive_word_proportion
+ * mda_negative_word_proportion
+ * mda_uncertainty_word_proportion
+ * mda_constraining_word_proportion
+ * qqdmr_positive_score
+ * qqdmr_negative_score
+ * qqdmr_polarity_score
+ * qqdmr_average_sentence_length
+ * qqdmr_percentage_of_complex_words
+ * qqdmr_fog_index
+ * qqdmr_complex_word_count
+ * qqdmr_word_count
+ * qqdmr_uncertainty_score
+ * qqdmr_constraining_score
+ * qqdmr_positive_word_proportion
+ * qqdmr_negative_word_proportion
+ * qqdmr_uncertainty_word_proportion
+ * qqdmr_constraining_word_proportion
+ * rf_positive_score
+ * rf_negative_score
+ * rf_polarity_score
+ * rf_average_sentence_length
+ * rf_percentage_of_complex_words
+ * rf_fog_index
+ * rf_complex_word_count
+ * rf_word_count
+ * rf_uncertainty_score
+ * rf_constraining_score
+ * rf_positive_word_proportion
+ * rf_negative_word_proportion
+ * rf_uncertainty_word_proportion
+ * rf_constraining_word_proportion
+ * constraining_words_whole_report
+
 ## Note this code needs to be rewritten
