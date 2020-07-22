@@ -49,6 +49,7 @@ Notations:
 “Risk Factors”: RF
 
 Output Variables: 
+<ul>
 All input variables in “cik_list.xlsx”
 mda_positive_score
 mda_negative_score
@@ -93,5 +94,5 @@ rf_negative_word_proportion
 rf_uncertainty_word_proportion
 rf_constraining_word_proportion
 constraining_words_whole_report
-
+</ul>
 ## Note this code needs to be rewritten
