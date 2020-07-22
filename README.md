@@ -1,17 +1,17 @@
 # Sentimental-Analysis-for-financial-texts
 This is a mini-project which analysis financial documents available on the sec website and returns the polarity, complex words, positive score, negative score and several other attributes in an excel sheet  
-Make sure to download the list of stop words, positive words , negative words
+Make sure to download the list of stop words, positive words , negative words/
 
-
+<br />
 
 
 Objective
-Objective of this assignment is to extract some sections (which are mentioned below) from SEC / EDGAR financial reports and perform text analysis to compute variables those are explained below. Link to SEC / EDGAR financial reports are given in excel spreadsheet “cik_list.xlsx”. 
+Objective of this assignment is to extract some sections (which are mentioned below) from SEC / EDGAR financial reports and perform text analysis to compute variables those are explained below. Link to SEC / EDGAR financial reports are given in excel spreadsheet “cik_list.xlsx”
 Please add https://www.sec.gov/Archives/ to every cells of column F (cik_list.xlsx) to access link to the financial report. 
 Example: Row 2, column F contains edgar/data/3662/0000950170-98-000413.txt
 Add https://www.sec.gov/Archives/ to form financial report link i.e. 
 https://www.sec.gov/Archives/edgar/data/3662/0000950170-98-000413.txt 
-
+<br />
 Variables:
 “Text Analysis.docx” you need to compute following: 
 Section 1.1: Positive score, negative score, polarity score
